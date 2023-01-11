@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714201221994",
+    "project_id": "abbary-app",
+    "storage_bucket": "abbary-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714201221994:android:271a0ce5bb4b1e0719f313",
+        "android_client_info": {
+          "package_name": "com.example.abbar_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714201221994-ge58jmjlm02q4ibd2p34ntsnlnjaijvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOll2LE2kwpspoDvoo7Fo0Lreew7DpIyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714201221994-ge58jmjlm02q4ibd2p34ntsnlnjaijvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
